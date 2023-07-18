@@ -1,0 +1,6 @@
+#container {
+    position: relative;
+    background: white;
+    border-style: solid;
+    border-color: black;
+}
